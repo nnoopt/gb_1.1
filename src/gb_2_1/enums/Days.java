@@ -14,4 +14,5 @@ public enum Days {
     public boolean isWorking() {
         return working;
     }
+    
 }

@@ -33,5 +33,6 @@ public class Cat implements Players {
             System.out.println("Cat jump: false");
             return false;
         }
+        
     }
 }

@@ -4,7 +4,6 @@ public class DayOfWeekMain {
     public static void main(String[] args) {
         System.out.println(getWorkingHours(Days.Monday));
     }
-
     public static String getWorkingHours(Days d){
         int h=0;
 
