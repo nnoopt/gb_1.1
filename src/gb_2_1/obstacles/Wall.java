@@ -17,4 +17,5 @@ public class Wall implements Obstacles{
     public boolean doIt(Players p) {
         return p.jump(height);
     }
+    
 }

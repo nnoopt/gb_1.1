@@ -8,7 +8,6 @@ public class Road implements Obstacles{
     public Road(int dist) {
         this.dist = dist;
     }
-
     public Road() {
         this (10);
     }
